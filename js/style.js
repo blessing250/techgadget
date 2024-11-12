@@ -14,7 +14,7 @@ const products = {
     },
   ],
   laptops: [
-    { name: "HP", price: "$1299", img: "images/hp.jpeg" },
+    { name: "HP", price: "$1299", img: "images/Hp.jpeg" },
     { name: "Dell", price: "$999", img: "images/Dell.jpeg" },
     {
       name: "Toshiba Core i7",
